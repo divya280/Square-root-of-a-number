@@ -15,15 +15,17 @@ To write a program to find the square root of a number.
 5. Return number
 
 ## Program:
-```
 /*
 Program to find the square root for the given number(newton's method) using function.
-Developed by: 
-RegisterNumber:  
+## Developed by: V.DIVYASHREE
+## RegisterNumber:  212223230051
+![image](https://github.com/drgbhuvaneswari/Square-root-of-a-number/assets/82276099/24aef61b-5ecf-43a3-9580-1066220d128c)
+
 */
-```
 
 ## Output:
+![image](https://github.com/drgbhuvaneswari/Square-root-of-a-number/assets/82276099/f68b1610-3daa-44b5-aa36-549c81c847b5)
+
 
 
 
