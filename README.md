@@ -15,8 +15,9 @@ To write a program to find the square root of a number.
 5. Return number
 
 ## Program:
-```
 /*
+```
+
 Program to find the square root for the given number(newton's method) using function.
 Developed by: V.Divyashree
 RegisterNumber: 212223230051
@@ -30,12 +31,11 @@ def newt_method(num, num_iters=100):
 a= int(input())
 print("Square root of the number:", newt_method(a))
 
-*/
 ```
-
+*/
 ## Output:
 
-![image](https://github.com/divya280/Square-root-of-a-number/assets/82276099/df491e6e-bb45-47ec-a41b-7283eb2a6907)
+![image](https://github.com/divya280/Square-root-of-a-number/assets/82276099/353e46dd-07a4-4771-84e6-bd41eac48bdc)
 
 
 
